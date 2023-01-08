@@ -1,0 +1,25 @@
+id: A05A45951
+title: Guru Yoga of the Great Omniscient One, Longchenpa
+type: translation
+pechas:
+- I1469FCF4
+- I8F044246
+- IA8CB847C
+- I38BD2980
+source_metadata:
+  languages:
+  - en
+  - fr
+  - zh
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:59:20.108451
+  last_modified_at: 2023-01-04 12:59:20.108468
+  collections:
+  - Longchen Rabjam Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I1469FCF4/2243: '6144'
+  I8F044246/E779: '6144'
+  IA8CB847C/F5E1: '6144'
+  I38BD2980/2503: '6144'
